@@ -1,10 +1,24 @@
 # c-cancer-mobile-netv2
 
-🚀 This is the first project on my new GitHub — a final year assignment I did during my specialization in Deep Learning, about a year ago. Decided to start fresh and upload it here to document my journey.
+🚀 This is the first project on my new GitHub — a final year assignment I did during my 
+specialization in Deep Learning, about a year ago. Decided to start fresh and upload it 
+here to document my journey.
 
-About This Project
-This project classifies cervical cancer cells from Pap smear images into 5 categories using Transfer Learning with MobileNetV2.
-It was part of my final year deep learning specialization, where I worked on medical image classification — one of the most meaningful applications of AI, since it can assist in early detection of cervical cancer.
+## About This Project
+
+This project classifies cervical cancer cells from Pap smear images into 5 categories 
+using Transfer Learning with MobileNetV2.
+
+It was part of my final year deep learning specialization, where I worked on medical image 
+classification — one of the most meaningful applications of AI, since it can assist in 
+early detection of cervical cancer.
+
+The dataset used is the **SIPaKMeD Pap Smear Dataset** containing 4059 cell images across 
+5 classes. Since the dataset is too large to host on GitHub, I have uploaded it to Google 
+Drive — you can download it from the link below and place it in the `dataset/` folder 
+before running the scripts.
+
+📁 **Dataset Download:** [Click here to download from Google Drive](https://drive.google.com/drive/folders/1z4zvZULe5WQ-SZIDjczBb9R0hNFmXP-w?usp=drive_link)
 
 
 
